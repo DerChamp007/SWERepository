@@ -1,7 +1,7 @@
 Projekt Liste Devran, Randip, Luis
 ________________________________________________________________________________________
 
-Klassendiagram: Luis
+Klassendiagram: Luis Ott
 
 Klasse Task - 
 
