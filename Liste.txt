@@ -1,2 +1,32 @@
 Projekt Liste Devran, Randip, Luis
 ________________________________________________________________________________________
+
+Klassendiagram: Luis
+
+Klasse Task - 
+
+Klasse TaskManager - 
+
+Methoden zum Hinzufügen und Anzeigen von Aufgaben - 
+
+Methoden zum Markieren von Aufgaben als erledigt und zum Anzeigen erledigter Aufgaben -
+ 
+Programmieren: Randip
+
+Klasse Task - 
+
+Klasse TaskManager - 
+
+Methoden zum Hinzufügen und Anzeigen von Aufgaben - 
+
+Methoden zum Markieren von Aufgaben als erledigt und zum Anzeigen erledigter Aufgaben -
+ 
+Dokumentation: Devran
+
+Klasse Task - 
+
+Klasse TaskManager - 
+
+Methoden zum Hinzufügen und Anzeigen von Aufgaben - 
+
+Methoden zum Markieren von Aufgaben als erledigt und zum Anzeigen erledigter Aufgaben - 
