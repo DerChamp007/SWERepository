@@ -1,7 +1,17 @@
 import java.util.Arrays;
 
+/**
+ * @author Randip Singh
+ * @version 1.0
+ * @comment Devran Sakar
+ */
 public class Taskmanager {
     private Task[] tasks;
+
+    /**
+     * 
+     * @param maxTasks Task Anzahl
+     */
 
     public Taskmanager(int maxTasks) {
         tasks = new Task[maxTasks];
@@ -29,6 +39,8 @@ public class Taskmanager {
             }
         }
     }
+
+
 
     @Override
     public String toString() {

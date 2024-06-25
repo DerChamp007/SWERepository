@@ -3,6 +3,13 @@ public class Task{
     private String description;
     private boolean completed;
 
+    /**
+     *
+     * @param id Taskkennung
+     * @param description Taskbeschreibung
+     * @param completed Vollendung
+     */
+
     public Task(int id, String description, boolean completed) {
         this.id = id;
         this.description = description;
@@ -32,5 +39,6 @@ public class Task{
     public void complete() {
         this.completed = true;
     }
+
 
 }
